@@ -1,0 +1,1 @@
+Pintura de Picasso que aprendi a fazer no freeCodeCamp.
